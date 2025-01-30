@@ -1,3 +1,9 @@
+## Projeto feito com a DevMedia
+
+![image](https://github.com/user-attachments/assets/c70376e6-20b8-4484-93f7-0db1aac3a4e0)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
